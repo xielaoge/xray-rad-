@@ -1,0 +1,4 @@
+把xray和rad放进文件夹就好了
+然后运行就ok了
+
+python main.py -u https://www.baidu.com/
